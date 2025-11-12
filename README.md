@@ -20,8 +20,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edolea&layout=compact)
 
----
-
 ## 📫 Get in touch
 
 - ✉️ [leali.edoardo@gmail.com](mailto:leali.edoardo@gmail.com)
