@@ -4,8 +4,6 @@
 ⚙️ Passionate about **parallel programming**, **machine learning**, and **graph deep learning**  
 📍 Based in **Lugano / Milan** • 🇨🇭🇮🇹  
 
----
-
 ## 🧠 About me
 
 - 🎓 Double-degree MSc in **High-Performance Computing** as part of the **EUMaster4HPC** program  
@@ -14,13 +12,9 @@
 - 🧰 Languages & Tools: `C/C++`, `Python`, `MPI`, `OpenMP`, `CUDA`, `PyTorch`, `PyTorch Geometric`, `MATLAB`, `Git`, `Linux`  
 - 🤝 Open to internships or research collaborations in Switzerland and nearby regions  
 
----
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edolea&layout=compact)  
 \
 📫 **Get in touch:**  
 [✉️ Email](mailto:leali.edoardo@gmail.com) • 
 [💼 LinkedIn](https://www.linkedin.com/in/edoardo-leali-818759301) • 
 [🧰 CV (PDF)](https://github.com/user-attachments/files/23502502/CV_eng.pdf)
-
-
-
