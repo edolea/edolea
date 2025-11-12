@@ -15,14 +15,20 @@
 - 🤝 Open to internships or research collaborations in Switzerland and nearby regions  
 
 ---
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edolea&layout=compact" alt="Top Langs" />
+    </td>
+    <td>
+      <h3>📫 Get in touch</h3>
+      <ul>
+        <li>✉️ <a href="mailto:leali.edoardo@gmail.com">leali.edoardo@gmail.com</a></li>
+        <li>💼 <a href="https://www.linkedin.com/in/edoardo-leali-818759301">LinkedIn</a></li>
+        <li>🧰 <a href="https://github.com/user-attachments/files/23502502/CV_eng.pdf">CV.pdf</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edolea&layout=compact)
-
-## 📫 Get in touch
-
-- ✉️ [leali.edoardo@gmail.com](mailto:leali.edoardo@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/edoardo-leali-818759301)
-- 🧰 [CV.pdf](https://github.com/user-attachments/files/23502502/CV_eng.pdf)
 
