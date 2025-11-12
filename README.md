@@ -4,7 +4,7 @@
 ⚙️ Passionate about **parallel programming**, **machine learning**, and **graph deep learning**  
 📍 Based in **Lugano / Milan** • 🇨🇭🇮🇹  
 
-## About me
+**About me**
 
 - 🎓 Double-degree MSc in **High-Performance Computing** as part of the **EUMaster4HPC** program  
 - 💡 Interests: **AI acceleration**, **scientific ML**, and **graph neural networks (GNNs/STGNNs)**  
@@ -12,7 +12,7 @@
 - 🧰 Languages & Tools: `C/C++`, `Python`, `MPI`, `OpenMP`, `CUDA`, `PyTorch`, `PyTorch Geometric`, `MATLAB`, `Git`, `Linux`  
 - 🤝 Open to internships or research collaborations in Switzerland and nearby regions  
 
-## GitStats
+**GitStats**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edolea&layout=compact)  
 \
 📫 **Get in touch:**  
