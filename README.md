@@ -13,6 +13,8 @@
 - 🤝 Open to internships or research collaborations in Switzerland and nearby regions  
 
 **GitStats**
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edolea&layout=compact)  
 \
 📫 **Get in touch:**  
