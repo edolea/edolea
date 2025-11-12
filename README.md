@@ -20,4 +20,4 @@
 📫 **Get in touch:**  
 [✉️ Email](mailto:leali.edoardo@gmail.com) • 
 [💼 LinkedIn](https://www.linkedin.com/in/edoardo-leali-818759301) • 
-[🧰 CV (PDF)](https://edolea.github.io/CV.pdf)
+[🧰 CV (PDF)](https://github.com/edolea/edolea/raw/main/CV.pdf)
