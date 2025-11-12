@@ -49,17 +49,17 @@
 
 ## 📊 GitHub Stats
 
-![Edoardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edolea&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edolea&layout=compact)
 
 ---
 
 ## 📫 Get in touch
 
-- ✉️ [leali.edoardo@gmail.com](mailto:leali.edoardo@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🧰 [CV (PDF)](link_to_your_cv_if_hosted)  
+- ✉️ [leali.edoardo@gmail.com](mailto:leali.edoardo@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/edoardo-leali-818759301)
+- 🧰 [CV.pdf](https://github.com/user-attachments/files/23502502/CV_eng.pdf)
+  
 
 ---
 
-⭐ Thanks for visiting — I’m always happy to connect about HPC, ML, or cool engineering projects!
+⭐ Thanks for visiting
