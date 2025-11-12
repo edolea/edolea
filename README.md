@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Edoardo Leali  
 
-<!--
-**edolea/edolea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc student in **High-Performance Computing** (EUMaster4HPC — Politecnico di Milano & Università della Svizzera italiana)  
+⚙️ Passionate about **parallel programming**, **machine learning**, and **graph deep learning**  
+📍 Based in **Lugano / Milan** • 🇨🇭🇮🇹  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About me
+
+- 🎓 Double-degree MSc in **High-Performance Computing** as part of the **EUMaster4HPC** program  
+- 💡 Interests: **AI acceleration**, **scientific ML**, and **graph neural networks (GNNs/STGNNs)**  
+- 🔭 Exploring how **HPC × AI** can meet — from **STGNNs for weather forecasting** to **benchmarking vLLMs on MeluXina**  
+- 🧰 Languages & Tools: `C/C++`, `Python`, `MPI`, `OpenMP`, `CUDA`, `PyTorch`, `PyTorch Geometric`, `MATLAB`, `Git`, `Linux`  
+- 🤝 Open to internships or research collaborations in Switzerland and nearby regions  
+
+---
+
+## 🚀 Projects & Highlights
+
+- **[GraphDL-Postprocess-USI-Project](https://github.com/edolea/GraphDL-Postprocess-USI-Project)**  
+  Spatiotemporal GNNs for **wind-speed forecasting** on the MeteoSwiss dataset.  
+  Builds a station graph, compares temporal models (RNN / temporal conv + message passing), and tracks experiments via Hydra + MLflow.  
+
+- **[Team3_EUMASTER4HPC2526](https://github.com/edolea/Team3_EUMASTER4HPC2526)**  
+  Toolkit to **deploy & benchmark vLLM stacks on MeluXina (Slurm)**.  
+  Includes server/client/monitor modules, Prometheus metrics, and JSON reports to study throughput vs cost.  
+
+- **[Graph_Coloring](https://github.com/edolea/Graph_Coloring)**  
+  Parallel **MPI solver** for the graph-coloring challenge.  
+  Cluster-ready build (CMake + job.slurm) and analysis of scalability and runtime behavior.  
+
+- **ONN-Based Chromatic-Dispersion Pre-Compensation (MATLAB)**  
+  MATLAB simulation of **optical neural networks** for chromatic-dispersion pre-compensation in fiber links.  
+  Visualizes signal evolution and explores model parameters in photonic computing.  
+
+- **Java 2D Game (Capstone)**  
+  A small team-built game written in **Java**, showcasing object-oriented design, unit testing, and CI basics.  
+
+---
+
+## 🌱 Currently Learning
+
+- 🌀 **Graph Neural Networks / Spatiotemporal Models** for weather and environmental data  
+- 🧩 **Performance tuning & profiling** on HPC systems (MPI / CUDA)  
+- 🧠 **vLLM benchmarking** and scaling of large language models  
+
+---
+
+## 📊 GitHub Stats
+
+![Edoardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edolea&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edolea&layout=compact)
+
+---
+
+## 📫 Get in touch
+
+- ✉️ [leali.edoardo@gmail.com](mailto:leali.edoardo@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 🧰 [CV (PDF)](link_to_your_cv_if_hosted)  
+
+---
+
+⭐ Thanks for visiting — I’m always happy to connect about HPC, ML, or cool engineering projects!
